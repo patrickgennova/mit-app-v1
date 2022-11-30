@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mit-app",
+    "slug": "mit-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
